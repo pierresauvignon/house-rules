@@ -1,5 +1,21 @@
 # House Rules
 
+```
+   .-------------.        .-------------.
+  /               \      /               \
+ /                 \    /                 \
+|                   |  |                   |
+|    I  VOICE       |  |   VI  EFFICIENCY  |
+|   II  AMBITION    |  |  VII  CRAFT       |
+|  III  TRUTH       |  | VIII  SECURITY    |
+|   IV  SIMPLICITY  |  |   IX  SAFE BUILDS |
+|    V  DELEGATION  |  |                   |
+|                   |  |                   |
+|___________________|  |___________________|
+```
+
+*Thou shalt not say "delve".*
+
 Nine short principles for AI coding agents. They cover how an agent sounds, how it thinks, how it works and how it keeps your systems safe.
 
 [Read the rules →](HOUSE-RULES.md)
